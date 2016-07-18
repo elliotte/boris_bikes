@@ -1,0 +1,9 @@
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core.Tests\bin\Debug\BorisBikes.Core.Tests.dll
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core.Tests\bin\Debug\BorisBikes.Core.Tests.pdb
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core.Tests\bin\Debug\BorisBikes.Core.dll
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core.Tests\bin\Debug\nunit.framework.dll
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core.Tests\bin\Debug\BorisBikes.Core.pdb
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core.Tests\bin\Debug\nunit.framework.xml
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core.Tests\obj\Debug\BorisBikes.Core.Tests.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core.Tests\obj\Debug\BorisBikes.Core.Tests.dll
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core.Tests\obj\Debug\BorisBikes.Core.Tests.pdb

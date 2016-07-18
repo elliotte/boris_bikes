@@ -1,0 +1,5 @@
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core\bin\Debug\BorisBikes.Core.dll
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core\bin\Debug\BorisBikes.Core.pdb
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core\obj\Debug\BorisBikes.Core.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core\obj\Debug\BorisBikes.Core.dll
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes.Core\obj\Debug\BorisBikes.Core.pdb

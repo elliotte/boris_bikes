@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorisBikes", "BorisBikes\BorisBikes.csproj", "{C97C75DB-AF1E-4FE1-A65C-84C6123E3222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorisBikes.Core", "BorisBikes.Core\BorisBikes.Core.csproj", "{FF55705B-4DF8-443E-A9E6-B92D2D0ACD32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorisBikes.Core.Tests", "BorisBikes.Core.Tests\BorisBikes.Core.Tests.csproj", "{7968B741-8DD3-46ED-B57A-681DDAC81372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C97C75DB-AF1E-4FE1-A65C-84C6123E3222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97C75DB-AF1E-4FE1-A65C-84C6123E3222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97C75DB-AF1E-4FE1-A65C-84C6123E3222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97C75DB-AF1E-4FE1-A65C-84C6123E3222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF55705B-4DF8-443E-A9E6-B92D2D0ACD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF55705B-4DF8-443E-A9E6-B92D2D0ACD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF55705B-4DF8-443E-A9E6-B92D2D0ACD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF55705B-4DF8-443E-A9E6-B92D2D0ACD32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7968B741-8DD3-46ED-B57A-681DDAC81372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7968B741-8DD3-46ED-B57A-681DDAC81372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7968B741-8DD3-46ED-B57A-681DDAC81372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7968B741-8DD3-46ED-B57A-681DDAC81372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

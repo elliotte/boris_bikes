@@ -1,0 +1,8 @@
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes\bin\Debug\BorisBikes.exe.config
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes\bin\Debug\BorisBikes.exe
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes\bin\Debug\BorisBikes.pdb
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes\bin\Debug\BorisBikes.Core.dll
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes\bin\Debug\BorisBikes.Core.pdb
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes\obj\Debug\BorisBikes.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes\obj\Debug\BorisBikes.exe
+c:\users\mark\documents\visual studio 2015\Projects\BorisBikes\BorisBikes\obj\Debug\BorisBikes.pdb
